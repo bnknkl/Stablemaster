@@ -1,0 +1,19 @@
+## Interface: 110200, 110205, 120000
+## Title: Stablemaster
+## Notes: Create and manage mount sets for different criteria.
+## Author: Khazryl
+## Version: 1.0
+## IconTexture: Interface\Icons\Ability_Mount_RidingHorse
+## SavedVariables: StablemasterDB
+
+Utils.lua
+Core.lua
+UI/UIStyle.lua
+UI/Dialogs.lua
+UI/MountList.lua
+UI/MainFrame.lua
+UI/PackPanel.lua
+UI/RulesDialog.lua
+UI/MountJournalHook.lua
+UI/OutfitHook.lua
+UI/MinimapIcon.lua
